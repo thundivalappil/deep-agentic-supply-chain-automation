@@ -1,0 +1,7 @@
+sku,location,on_hand,lead_time_days,unit_cost
+SKU001,Kochi,20,5,15.00
+SKU001,Bengaluru,18,5,15.00
+SKU002,Kochi,12,4,10.00
+SKU002,Bengaluru,15,4,10.00
+SKU003,Kochi,8,7,25.00
+SKU003,Bengaluru,10,7,25.00

@@ -1,0 +1,4 @@
+sku,preferred_supplier,supplier_risk,moq
+SKU001,Supplier_A,Low,20
+SKU002,Supplier_B,Medium,15
+SKU003,Supplier_C,High,25
